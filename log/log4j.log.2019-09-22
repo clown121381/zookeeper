@@ -1,0 +1,38 @@
+2019-09-22 18:46:09,878 DEBUG (log.LogDemo:main) - hello 
+2019-09-22 18:50:42,480 DEBUG (log.LogDemo:main) - hello 
+2019-09-22 18:50:42,485  INFO (log.LogDemo:main) - info
+2019-09-22 18:50:42,485  WARN (log.LogDemo:main) - warning
+2019-09-22 18:50:42,486 ERROR (log.LogDemo:main) - error
+2019-09-22 19:05:15,789  INFO (org.apache.zookeeper.Environment:logEnv) - Client environment:zookeeper.version=3.4.8--1, built on 02/06/2016 03:18 GMT
+2019-09-22 19:05:15,794  INFO (org.apache.zookeeper.Environment:logEnv) - Client environment:host.name=DESKTOP-L864BJL
+2019-09-22 19:05:15,794  INFO (org.apache.zookeeper.Environment:logEnv) - Client environment:java.version=1.8.0_221
+2019-09-22 19:05:15,797  INFO (org.apache.zookeeper.Environment:logEnv) - Client environment:java.vendor=Oracle Corporation
+2019-09-22 19:05:15,802  INFO (org.apache.zookeeper.Environment:logEnv) - Client environment:java.home=C:\Program Files\java\jdk1.8.0_221\jre
+2019-09-22 19:05:15,802  INFO (org.apache.zookeeper.Environment:logEnv) - Client environment:java.class.path=C:\Program Files\java\jdk1.8.0_221\jre\lib\charsets.jar;C:\Program Files\java\jdk1.8.0_221\jre\lib\deploy.jar;C:\Program Files\java\jdk1.8.0_221\jre\lib\ext\access-bridge-64.jar;C:\Program Files\java\jdk1.8.0_221\jre\lib\ext\cldrdata.jar;C:\Program Files\java\jdk1.8.0_221\jre\lib\ext\dnsns.jar;C:\Program Files\java\jdk1.8.0_221\jre\lib\ext\jaccess.jar;C:\Program Files\java\jdk1.8.0_221\jre\lib\ext\jfxrt.jar;C:\Program Files\java\jdk1.8.0_221\jre\lib\ext\localedata.jar;C:\Program Files\java\jdk1.8.0_221\jre\lib\ext\nashorn.jar;C:\Program Files\java\jdk1.8.0_221\jre\lib\ext\sunec.jar;C:\Program Files\java\jdk1.8.0_221\jre\lib\ext\sunjce_provider.jar;C:\Program Files\java\jdk1.8.0_221\jre\lib\ext\sunmscapi.jar;C:\Program Files\java\jdk1.8.0_221\jre\lib\ext\sunpkcs11.jar;C:\Program Files\java\jdk1.8.0_221\jre\lib\ext\zipfs.jar;C:\Program Files\java\jdk1.8.0_221\jre\lib\javaws.jar;C:\Program Files\java\jdk1.8.0_221\jre\lib\jce.jar;C:\Program Files\java\jdk1.8.0_221\jre\lib\jfr.jar;C:\Program Files\java\jdk1.8.0_221\jre\lib\jfxswt.jar;C:\Program Files\java\jdk1.8.0_221\jre\lib\jsse.jar;C:\Program Files\java\jdk1.8.0_221\jre\lib\management-agent.jar;C:\Program Files\java\jdk1.8.0_221\jre\lib\plugin.jar;C:\Program Files\java\jdk1.8.0_221\jre\lib\resources.jar;C:\Program Files\java\jdk1.8.0_221\jre\lib\rt.jar;E:\idea-projects\zookeeper\target\classes;D:\apache-maven-3.6.0\repository\org\slf4j\slf4j-api\1.7.25\slf4j-api-1.7.25.jar;D:\apache-maven-3.6.0\repository\org\slf4j\slf4j-log4j12\1.7.25\slf4j-log4j12-1.7.25.jar;D:\apache-maven-3.6.0\repository\com\github\spotbugs\spotbugs-annotations\3.1.9\spotbugs-annotations-3.1.9.jar;D:\apache-maven-3.6.0\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;D:\apache-maven-3.6.0\repository\jline\jline\0.9.94\jline-0.9.94.jar;D:\apache-maven-3.6.0\repository\org\apache\yetus\audience-annotations\0.5.0\audience-annotations-0.5.0.jar;D:\apache-maven-3.6.0\repository\io\netty\netty\3.10.6.Final\netty-3.10.6.Final.jar;D:\apache-maven-3.6.0\repository\com\101tec\zkclient\0.10\zkclient-0.10.jar;D:\apache-maven-3.6.0\repository\org\apache\zookeeper\zookeeper\3.4.8\zookeeper-3.4.8.jar;D:\apache-maven-3.6.0\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;D:\IntelliJ IDEA 2019.2.1\lib\idea_rt.jar
+2019-09-22 19:05:15,803  INFO (org.apache.zookeeper.Environment:logEnv) - Client environment:java.library.path=C:\Program Files\java\jdk1.8.0_221\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;D:\app\abhjj\product\11.2.0\dbhome_1\bin;D:\Xshell 6\;D:\Xftp 6\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\java\jdk1.8.0_221\bin;D:\Git\cmd;D:\apache-maven-3.6.0\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Users\abhjj\AppData\Local\Microsoft\WindowsApps;;.
+2019-09-22 19:05:15,804  INFO (org.apache.zookeeper.Environment:logEnv) - Client environment:java.io.tmpdir=C:\Users\abhjj\AppData\Local\Temp\
+2019-09-22 19:05:15,805  INFO (org.apache.zookeeper.Environment:logEnv) - Client environment:java.compiler=<NA>
+2019-09-22 19:05:15,807  INFO (org.apache.zookeeper.Environment:logEnv) - Client environment:os.name=Windows 10
+2019-09-22 19:05:15,807  INFO (org.apache.zookeeper.Environment:logEnv) - Client environment:os.arch=amd64
+2019-09-22 19:05:15,808  INFO (org.apache.zookeeper.Environment:logEnv) - Client environment:os.version=10.0
+2019-09-22 19:05:15,808  INFO (org.apache.zookeeper.Environment:logEnv) - Client environment:user.name=abhjj
+2019-09-22 19:05:15,809  INFO (org.apache.zookeeper.Environment:logEnv) - Client environment:user.home=C:\Users\abhjj
+2019-09-22 19:05:15,809  INFO (org.apache.zookeeper.Environment:logEnv) - Client environment:user.dir=E:\idea-projects\zookeeper
+2019-09-22 19:05:15,916  INFO (org.apache.zookeeper.ZooKeeper:<init>) - Initiating client connection, connectString=192.168.44.129:2181 sessionTimeout=50000 watcher=demo.Demo$$Lambda$1/399573350@3b764bce
+2019-09-22 19:05:15,925 DEBUG (org.apache.zookeeper.ClientCnxn:<clinit>) - zookeeper.disableAutoWatchReset is false
+2019-09-22 19:05:16,375  INFO (org.apache.zookeeper.ClientCnxn$SendThread:logStartConnect) - Opening socket connection to server 192.168.44.129/192.168.44.129:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-09-22 19:05:16,378  INFO (org.apache.zookeeper.ClientCnxn$SendThread:primeConnection) - Socket connection established to 192.168.44.129/192.168.44.129:2181, initiating session
+2019-09-22 19:05:16,380 DEBUG (org.apache.zookeeper.ClientCnxn$SendThread:primeConnection) - Session establishment request sent on 192.168.44.129/192.168.44.129:2181
+2019-09-22 19:05:16,387  INFO (org.apache.zookeeper.ClientCnxn$SendThread:onConnected) - Session establishment complete on server 192.168.44.129/192.168.44.129:2181, sessionid = 0x100021f880b0002, negotiated timeout = 40000
+2019-09-22 19:05:16,394 DEBUG (org.apache.zookeeper.ClientCnxn$SendThread:readResponse) - Reading reply sessionid:0x100021f880b0002, packet:: clientPath:null serverPath:null finished:false header:: 1,3  replyHeader:: 1,13,0  request:: '/yang,F  response:: s{9,9,1569146462805,1569146462805,0,0,0,0,8,0,9} 
+2019-09-22 19:05:16,395 DEBUG (org.apache.zookeeper.ZooKeeper:close) - Closing session: 0x100021f880b0002
+2019-09-22 19:05:16,395 DEBUG (org.apache.zookeeper.ClientCnxn:close) - Closing client for session: 0x100021f880b0002
+2019-09-22 19:05:16,399 DEBUG (org.apache.zookeeper.ClientCnxn$SendThread:readResponse) - Reading reply sessionid:0x100021f880b0002, packet:: clientPath:null serverPath:null finished:false header:: 2,-11  replyHeader:: 2,14,0  request:: null response:: null
+2019-09-22 19:05:16,399 DEBUG (org.apache.zookeeper.ClientCnxn:disconnect) - Disconnecting client for session: 0x100021f880b0002
+2019-09-22 19:05:16,400  INFO (org.apache.zookeeper.ZooKeeper:close) - Session: 0x100021f880b0002 closed
+2019-09-22 19:10:30,539 DEBUG (log.LogDemo:main) - 1111
+2019-09-22 19:10:30,543 ERROR (log.LogDemo:main) - / by zero
+2019-09-22 19:11:14,745 DEBUG (log.LogDemo:main) - 1111
+2019-09-22 19:11:14,750 ERROR (log.LogDemo:main) - / by zero
+2019-09-22 19:11:28,152 DEBUG (log.LogDemo:main) - 1111
+2019-09-22 19:11:28,156 ERROR (log.LogDemo:main) - / by zero
